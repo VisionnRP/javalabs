@@ -1,0 +1,89 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject                               DOLPHIN.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -217.5 365 -535 -90.00002 20.4000029 0 30.3900003 30.3900003 30.3900003
+  0 0 0 0 0
+  20 367.5 -127.5 -90.00002 0.4000029 0 0.3900003 0.3900003 0.3900003
+  80 0 0 0 0
+EndBehavior 2
+LockedChannels 80
+ClipMap Planar Image Map
+TextureWrapModes 1 1
+TextureFlags 4
+TextureAxis 4
+TextureSize 1 1 1
+TextureValue 4.500000
+ShadowOptions 7
+
+LoadObject                               GOLDFISH.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  20 420.5 -227.5 90.00002 0.4000029 0 300.3900003 300.3900003 300.3900003
+  0 0 0 0 0
+  -217.5 365 -535 90.00002 0.4000029 0 300.3900003 300.3900003 300.3900003
+  80 0 0 0 0
+EndBehavior 2
+LockedChannels 80
+ClipMap Planar Image Map
+TextureWrapModes 1 1
+TextureFlags 4
+TextureAxis 4
+TextureSize 1 1 1
+TextureValue 4.500000
+ShadowOptions 7
+
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -510 574 0 45 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  -111.9368 391.8948 -530.3534 0 0.5 0 1 1 1
+  0 0 0 0 0
+  -89.93677 537.8948 -620.3534 8.899999 11.4 0 1 1 1
+  58 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+Stereoscopic 1
+EyeSeparation 0.060000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+
+
