@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/javalabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/libraries/j3dcore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/golova.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab3/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab3/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab3/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/par.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/pixels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/porovozik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/primer_bmp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/ClockElementsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/out/production/lab3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +94,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1ZUEBuCjLSiwde3qw7ZlwCjkPhc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -67,6 +111,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -75,6 +120,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
@@ -82,11 +128,12 @@
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Game\Desktop\lab3" />
       <recent name="C:\Users\Game\Desktop\lab3\src\sample" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\javalabs\lab3\src\sample" />
       <recent name="C:\Users\Game\Desktop\lab3" />
       <recent name="C:\Users\Game\Desktop\lab3\src\sample" />
     </key>
@@ -118,7 +165,7 @@
       <Port>5050</Port>
     </configuration>
     <configuration name="Paravozik" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="sample.Paravozik" />
+      <option name="MAIN_CLASS_NAME" value="sample.Scene" />
       <module name="lab3" />
       <extension name="coverage">
         <pattern>
@@ -183,6 +230,9 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1584885142229" duration="1091000" />
       <workItem from="1584886275927" duration="1792000" />
+      <workItem from="1585659937427" duration="409000" />
+      <workItem from="1585660414324" duration="13000" />
+      <workItem from="1585660441601" duration="1213000" />
     </task>
     <servers />
   </component>
@@ -191,37 +241,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584887633777">
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585660187922">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1584887633777" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1585660187922" />
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584897274867">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1584897274867" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1584888273777">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1585660351908">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584888273777" />
-    <state width="698" height="2" key="GridCell.Tab.0.bottom" timestamp="1584899596351">
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1585660351908" />
+    <state width="1396" height="186" key="GridCell.Tab.0.bottom" timestamp="1585660352809">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="2" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584899596351" />
-    <state width="698" height="2" key="GridCell.Tab.0.center" timestamp="1584899596351">
+    <state width="1396" height="186" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1585660352809" />
+    <state width="1396" height="186" key="GridCell.Tab.0.center" timestamp="1585660352809">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="2" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584899596351" />
-    <state width="698" height="2" key="GridCell.Tab.0.left" timestamp="1584899596351">
+    <state width="1396" height="186" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1585660352809" />
+    <state width="1396" height="186" key="GridCell.Tab.0.left" timestamp="1585660352809">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="2" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584899596351" />
-    <state width="698" height="2" key="GridCell.Tab.0.right" timestamp="1584899596351">
+    <state width="1396" height="186" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1585660352809" />
+    <state width="1396" height="186" key="GridCell.Tab.0.right" timestamp="1585660352809">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="2" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584899596351" />
+    <state width="1396" height="186" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1585660352809" />
     <state width="1396" height="270" key="GridCell.Tab.1.bottom" timestamp="1584886237871">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -238,9 +289,13 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1396" height="270" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1584886237871" />
-    <state x="415" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1584888206723">
+    <state x="415" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1585083480238">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="415" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584888206723" />
+    <state x="415" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1585083480238" />
+    <state x="529" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584900917171">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="529" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1584900917171" />
   </component>
 </project>
